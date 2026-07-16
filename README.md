@@ -71,4 +71,16 @@ Durante o desenvolvimento foi adicionada a funcionalidade de conclusão de taref
 
 ## Autor
 
-Arthur H. Mittelstadt
+Arthur Mittels
+
+## Licença
+
+Projeto desenvolvido para fins acadêmicos na disciplina de Engenharia de Software.
+
+## Versão
+
+Versão 1.0
+
+## Integrantes
+
+- Arthur Mittels
